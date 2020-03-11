@@ -1,0 +1,10 @@
+div nav ul{
+    background-color: blue;
+}
+div nav ul li{
+    display: inline;
+}
+
+div nav ul li #icon-negrito{
+    width: 2%;
+}
